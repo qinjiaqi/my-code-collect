@@ -5,6 +5,7 @@
 
 >适用移动端，且有动画效果（变速）
 
-2. [](http://www.seeu.cloud/my-code-collect/css-secreter-demo1.html)
+
+2. [对话框](http://www.seeu.cloud/my-code-collect/css-secreter-demo1.html)
 
 >常用对话框
